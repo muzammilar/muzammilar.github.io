@@ -1,0 +1,2 @@
+# Remote Theme for Jekyll; Requires Jekyll >= 3.7
+remote_theme: "mmistakes/minimal-mistakes"

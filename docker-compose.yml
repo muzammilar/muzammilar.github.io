@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  jekyllwebserver:
+    image: jekyll/jekyll
+    container_name: webserver-01
+    command: jekyll server --watch --increment
+    ports:
+      - 4000:4000 # server port
+    volumes: # mount the current directory
+      - .:/srv/jekyll
