@@ -14,6 +14,20 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: pages #posts
+    values:
+      layout: single
+      author_profile: true
+      # read_time: true
+      # comments: # true
+      # share: true
+      # related: true
+
 # Site Settings
 locale: "en-US"
 title: "Muzammil Abdul Rehman"

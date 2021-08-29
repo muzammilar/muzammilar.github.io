@@ -5,7 +5,7 @@
 
 ```sh
 ## Run without docker-compose
-docker run --rm --volume="${PWD}:/srv/jekyll"  -p 4000:4000 -it jekyll/jekyll:latest bash
+docker run --rm --volume="${pwd}:/srv/jekyll"  -p 4000:4000 -it jekyll/jekyll:latest bash
 # build (or skip)
 jekyll build
 # run jekyll server for local testing

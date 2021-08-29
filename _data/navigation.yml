@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "Home"
-    url: /
+  # - title: "Home"
+  #   url: /
   - title: "About"
     url: /
   - title: "Projects"
-    url: /
+    url: /projects
   - title: "Research"
-    url: /
+    url: /reseach
   - title: "Resume"
     url: /
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/

@@ -1,6 +1,5 @@
 ---
-permalink: /
-layout: single
+permalink: /projects
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: rgba(0, 0, 0, 0.25)
