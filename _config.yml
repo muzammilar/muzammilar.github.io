@@ -22,6 +22,7 @@ defaults:
       type: pages #posts
     values:
       layout: single
+      classes: wide # increasing the page width for all pages
       author_profile: true
       # read_time: true
       # comments: # true

@@ -1,16 +1,20 @@
 ---
 permalink: /reseach
-layout: category
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: rgba(0, 0, 0, 0.25)
 title: ""
 #excerpt: "&nbsp;<br/>&nbsp;"
 author_profile: true
+# Table of Contents. It requires `single` layout
+toc: true
+toc_label: "Past Research Projects"
+toc_icon: "cog"
 ---
 
 
 <!-- Passport -->
+# Passport
 <h2 class="">
   <smallcaps>Passport:</smallcaps> Country-level Router Geolocation
 </h2>
